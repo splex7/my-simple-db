@@ -18,9 +18,6 @@
      
     }
   ],
-  "profile": {
-    "name": "splex7"
-  },
   "users": [
     {
       "id": 1,
@@ -252,6 +249,10 @@
         "bs": "target end-to-end models"
       }
     }
-  ]
+  ],
+  "profile": {
+    "name": "splex7"
+  },
+  
 
 }
